@@ -46,7 +46,7 @@ TEAM_MEMBERS = [
                "LinkedIn": "https://www.linkedin.com/in/rishon-simone-papa-519516333/"}},
 ]
 PROJECT_LINKS = {
-    "colab":  "https://colab.research.google.com/drive/1zNbjOiFXpkCnQGa0v0q8sB_8D6jxiVPV?usp=sharing",
+    "colab":  "https://colab.research.google.com/drive/1kCgrqory6oAfC4FaMLX6cH6yaJ1Nav2K?usp=sharing",
     "github": "https://github.com/jjjlyk/Signal-to-Noise",
 }
 SOCIAL_ICONS = {"LinkedIn": ":material/work:", "GitHub": ":material/code:", "Facebook": ":material/group:",
