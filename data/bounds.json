@@ -1,0 +1,23 @@
+{
+  "study_area": "Candaba Floodplain, Central Luzon",
+  "spatial_extent_bbox_wgs84": [
+    120.65,
+    14.85,
+    121.05,
+    15.3
+  ],
+  "grid_dimensions_pixels": [
+    2251,
+    2000
+  ],
+  "baseline_references": [
+    "20260705",
+    "20260717"
+  ],
+  "peak_storm_flood_date": "20260903",
+  "analysis_consecutive_duration_passes": 2,
+  "sensitivity_scenarios": {
+    "otsu_baseline_db": -14.0,
+    "strict_db": -15.0
+  }
+}
