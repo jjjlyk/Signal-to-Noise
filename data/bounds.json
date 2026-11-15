@@ -1,23 +1,61 @@
 {
   "study_area": "Candaba Floodplain, Central Luzon",
-  "spatial_extent_bbox_wgs84": [
+  "bbox_wgs84": [
     120.65,
     14.85,
     121.05,
     15.3
   ],
-  "grid_dimensions_pixels": [
+  "leaflet_bounds": [
+    [
+      14.85,
+      120.65
+    ],
+    [
+      15.3,
+      121.05
+    ]
+  ],
+  "grid_pixels": [
     2251,
     2000
   ],
-  "baseline_references": [
+  "dates": [
+    "20260623",
+    "20260705",
+    "20260717",
+    "20260810",
+    "20260822",
+    "20260903",
+    "20260915",
+    "20260927",
+    "20261009"
+  ],
+  "baseline_dates": [
     "20260705",
     "20260717"
   ],
-  "peak_storm_flood_date": "20260903",
-  "analysis_consecutive_duration_passes": 2,
-  "sensitivity_scenarios": {
-    "otsu_baseline_db": -14.0,
-    "strict_db": -15.0
-  }
+  "check_date": "20260623",
+  "peak_storm_flood_date": "20260810",
+  "water_threshold_db": -14.0,
+  "sensitivity_threshold_db": -15.0,
+  "otsu_reference_db": -9.48,
+  "jrc_usual_water_min_pct": 25,
+  "consecutive_passes_for_risk": 2,
+  "normal_water_ha": 24522.4,
+  "peak_storm_flood_ha": 18832.0,
+  "total_at_risk_cropland_ha": 14197.0,
+  "total_at_risk_cropland_ha_strict": 9595.0,
+  "false_alarm_margin_ha": 1521.4,
+  "rgb_bands": {
+    "red": "HH dB [-20, 0]",
+    "green": "HV dB [-25, -5]",
+    "blue": "HH-HV dB [2, 12]"
+  },
+  "data_sources": [
+    "NISAR L2 GCOV PROVISIONAL (ASF DAAC), track 140A frame 9",
+    "ESA WorldCover 2021 v200",
+    "JRC Global Surface Water occurrence v1.4 (2021)",
+    "geoBoundaries PHL ADM2/ADM3 (simplified)"
+  ]
 }
