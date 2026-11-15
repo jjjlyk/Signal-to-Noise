@@ -8,6 +8,7 @@
 <h3 align="center">Dancing with the SARs · NASA Space Apps Challenge 2026</h3>
 
 <p align="center">
+  <a href="https://signal-to-noise.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a>
   <a href="https://colab.research.google.com/drive/1zNbjOiFXpkCnQGa0v0q8sB_8D6jxiVPV?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
   <img src="https://img.shields.io/badge/built%20with-Streamlit-FF4B4B" alt="Built with Streamlit">
   <img src="https://img.shields.io/badge/data-NISAR%20L--band-00bcd4" alt="NISAR L-band">
@@ -18,7 +19,7 @@ An interactive Streamlit app that uses **NISAR** (NASA–ISRO Synthetic Aperture
 **Candaba Floodplain** in Central Luzon, Philippines floods and drains across the 2026 monsoon and typhoon season,
 and what that means for the farms in and around it.
 
-**Quick links:** [Preprocessing notebook (Colab)](https://colab.research.google.com/drive/1zNbjOiFXpkCnQGa0v0q8sB_8D6jxiVPV?usp=sharing) ·
+**Quick links:** [**Live app**](https://signal-to-noise.streamlit.app/) · [Preprocessing notebook (Colab)](https://colab.research.google.com/drive/1zNbjOiFXpkCnQGa0v0q8sB_8D6jxiVPV?usp=sharing) ·
 [Run the app locally](#run-it-locally) · [Key results](#key-results) · [Team](#team)
 
 ---
